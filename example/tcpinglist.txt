@@ -1,0 +1,2 @@
+internetbeacon.msedge.net
+internetbeacon.msedge.net:443

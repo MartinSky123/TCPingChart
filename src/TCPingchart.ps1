@@ -209,7 +209,7 @@ Param (
         $global:BadHost = 1
         $global:i = $global:i + 1
         Write-Host "The destination $MyDest could not be contacted." -ForegroundColor Red
-        $global:MyLog = $global:MyLog + "no response,"
+        $global:MyLog = $global:MyLog + ","
      }
     #
     function round($n) {
